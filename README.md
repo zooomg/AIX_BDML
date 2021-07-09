@@ -79,18 +79,18 @@ pooling & filtering
 ## On Interpretability of Artificial Neural Networks: A Survey, 2021.05
 
 ### Post-Hoc
-Feature Analysis
+#### Feature Analysis
 - inverting method
   - deconvolution
 - activation maximization
   - network dissection
 
-Model Inspection
+#### Model Inspection
 - influence function
 - concept-based
   - CAV
 
-Saliency
+#### Saliency
 - leave-one-out
   - omission value
     - 1-cosine distance
@@ -101,25 +101,25 @@ Saliency
   - LRP(deep taylor)
 - CAM, class activation map
 
-Proxy
+#### Proxy
 - direct extraction
 - knowledge-distillation
 - provide a local explainer
   - LIME
 
-Advanced Mathematical/Physical Analysis
+#### Advanced Mathematical/Physical Analysis
 
-Explaining-by-Case
+#### Explaining-by-Case
 - K-Nearest Neighbor Algorithm
 - Counter factual case
 
-Explaining-by-Text
+#### Explaining-by-Text
 - Neural image captioning
   - CNN + bidirection-RNN
   - CNN + attention-RNN
 
 ### Ad-Hoc
-Interpretable Representation
+#### Interpretable Representation
 - decomposability
   - InfoGAN (NIPS, 2016) [https://arxiv.org/abs/1606.03657]
   - (CVPR, 2017) [https://arxiv.org/abs/1706.04313]
@@ -130,7 +130,7 @@ Interpretable Representation
 - sparsity (AAAI, 2018) [https://arxiv.org/abs/1711.08792]
 - human-in-the-loop prior (NIPS, 2018) [https://arxiv.org/abs/1805.11571]
 
-Model Renovation
+#### Model Renovation
 - PLNN (KDD, 2018) [https://arxiv.org/abs/1802.06259]
 - Soft-AE (IEEE transaction on Computational Imaging, 2020) [https://arxiv.org/abs/1812.11675]
 - L. Fan (NIPS, 2017) [https://arxiv.org/abs/1710.10328]
