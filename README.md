@@ -104,6 +104,15 @@
 #### Proxy
 - direct extraction
 - knowledge-distillation
+  - decision tree
+    - Extracting tree-structured representations of trained networks (1995, NIPS) [https://dl.acm.org/doi/10.5555/2998828.2998832]
+    - Beyond Sparsity: Tree Regularization of Deep Models for Interpretability (2018, AAAI) [https://arxiv.org/abs/1711.06178]
+  - decision set
+    - Interpretable & Explorable Approximations of Black Box Models (2017, ) [https://arxiv.org/abs/1707.01154]
+  - global additive model
+    - Learning Global Additive Explanations for Neural Nets Using Model Distillation (2018, ) [https://arxiv.org/abs/1801.08640]
+  - simpler network
+    - Harnessing Deep Neural Networks with Logic Rules (2016, ) [https://arxiv.org/abs/1603.06318]
 - provide a local explainer
   - LIME (2016, SIGKDD) [https://arxiv.org/abs/1602.04938]
   - Anchor (2018, AAAI) [https://www.semanticscholar.org/paper/Anchors%3A-High-Precision-Model-Agnostic-Explanations-Ribeiro-Singh/1d8f4f76ac6534627ef8a1c24b9937d8ab2a5c5f]
