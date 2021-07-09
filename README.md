@@ -106,6 +106,8 @@
 - knowledge-distillation
 - provide a local explainer
   - LIME
+  - Anchor
+  - LORE
 
 #### Advanced Mathematical/Physical Analysis
 
