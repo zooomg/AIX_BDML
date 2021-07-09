@@ -129,6 +129,7 @@ Interpretable Representation
 - non-negativity (IEEE Transactions on Neural Networks and Learning Systems, 2014) [https://ieeexplore.ieee.org/document/6783731/]
 - sparsity (AAAI, 2018) [https://arxiv.org/abs/1711.08792]
 - human-in-the-loop prior (NIPS, 2018) [https://arxiv.org/abs/1805.11571]
+
 Model Renovation
 - PLNN (KDD, 2018) [https://arxiv.org/abs/1802.06259]
 - Soft-AE (IEEE transaction on Computational Imaging, 2020) [https://arxiv.org/abs/1812.11675]
