@@ -10,13 +10,13 @@
 - AM in code space
 
 ### Explanation
-pooling
+#### pooling
 - sensitivity
 - simple taylor decomposition
-filtering
+#### filtering
 - deconvolution
 - extension guided back prop
-pooling & filtering
+#### pooling & filtering
 - LRP
 
 ## Explaining the black-box model: A survey of local interpretation methods for deep neural networks, 2021.01
