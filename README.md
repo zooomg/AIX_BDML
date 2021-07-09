@@ -141,8 +141,7 @@ Model Renovation
 
 ## Interpretable Deep Learning: Interpretation, Interpretability, Trustworthiness, and Beyond, 2021.05
 
-![image](https://user-images.githubusercontent.com/11240557/125038219-1ed49600-e0d0-11eb-8fb0-29314a305a9b.png)
-
+![image](https://user-images.githubusercontent.com/11240557/125038709-b0440800-e0d0-11eb-93f8-c25ea7953647.png)
 
 ### types of models
 - Model-agnostic
@@ -155,6 +154,7 @@ Model Renovation
 - Model Rationale Process
 - Dataset
 
+![image](https://user-images.githubusercontent.com/11240557/125038219-1ed49600-e0d0-11eb-8fb0-29314a305a9b.png)
 ### relation between the interpretation algorithm and the model
 - Closed-form
 - Composition
