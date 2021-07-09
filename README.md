@@ -2,7 +2,24 @@
 
 # Algorithms
 
-## Explaining the black-box model: A survey of local interpretation methods for deep neural networks
+## Methods for interpreting and understanding deep neural networks, 2018
+
+### Interpretation
+- Activation Maximize
+- AM + expert
+- AM in code space
+
+### Explanation
+pooling
+- sensitivity
+- simple taylor decomposition
+filtering
+- deconvolution
+- extension guided back prop
+pooling & filtering
+- LRP
+
+## Explaining the black-box model: A survey of local interpretation methods for deep neural networks, 2021.01
 
 ### data-driven
 - perturebation-based
@@ -58,3 +75,87 @@
   - U-cam (2019, ICCV) [https://arxiv.org/abs/1908.06306]
   - GFI (2018, SIGKDD) [https://arxiv.org/abs/1804.00506]
   - Grad++ (2018, WACV) [https://ieeexplore.ieee.org/document/8354201]
+
+## On Interpretability of Artificial Neural Networks: A Survey, 2021.05
+
+### Post-Hoc
+Feature Analysis
+- inverting method
+  - deconvolution
+- activation maximization
+  - network dissection
+
+Model Inspection
+- influence function
+- concept-based
+  - CAV
+
+Saliency
+- leave-one-out
+  - omission value
+    - 1-cosine distance
+  - shapley value
+- resort to gradient
+  - smoothGrad
+  - integratedGrad
+  - LRP(deep taylor)
+- CAM, class activation map
+
+Proxy
+- direct extraction
+- knowledge-distillation
+- provide a local explainer
+  - LIME
+
+Advanced Mathematical/Physical Analysis
+
+Explaining-by-Case
+- K-Nearest Neighbor Algorithm
+- Counter factual case
+
+Explaining-by-Text
+- Neural image captioning
+  - CNN + bidirection-RNN
+  - CNN + attention-RNN
+
+### Ad-Hoc
+Interpretable Representation
+- decomposability
+  - InfoGAN (NIPS, 2016) [https://arxiv.org/abs/1606.03657]
+  - (CVPR, 2017) [https://arxiv.org/abs/1706.04313]
+  - (IEEE Access, 2016) [https://ieeexplore.ieee.org/document/7733110]
+  - (CVPR, 2018) [https://arxiv.org/abs/1710.00935]
+- monotonicity (NIPS, 2017) [https://arxiv.org/abs/1709.06680]
+- non-negativity (IEEE Transactions on Neural Networks and Learning Systems, 2014) [https://ieeexplore.ieee.org/document/6783731/]
+- sparsity (AAAI, 2018) [https://arxiv.org/abs/1711.08792]
+- human-in-the-loop prior (NIPS, 2018) [https://arxiv.org/abs/1805.11571]
+Model Renovation
+- PLNN (KDD, 2018) [https://arxiv.org/abs/1802.06259]
+- Soft-AE (IEEE transaction on Computational Imaging, 2020) [https://arxiv.org/abs/1812.11675]
+- L. Fan (NIPS, 2017) [https://arxiv.org/abs/1710.10328]
+- D. A. Melis and T. Jaakkola (NIPS, 2018) [https://arxiv.org/abs/1806.07538]
+- C. Li et al. (IEEE transaction on Computer Vision and Pattern Recognition, 2018) [https://arxiv.org/abs/1801.03399]
+- T. Wang (ICML, 2019) [https://arxiv.org/abs/1802.04346]
+- FA-RNN (EMNLP, 2020) [https://aclanthology.org/2020.emnlp-main.258/]
+
+## Interpretable Deep Learning: Interpretation, Interpretability, Trustworthiness, and Beyond, 2021.05
+
+![image](https://user-images.githubusercontent.com/11240557/125038219-1ed49600-e0d0-11eb-8fb0-29314a305a9b.png)
+
+
+### types of models
+- Model-agnostic
+- Differentiable model
+- Specific model
+
+### representations of interpretation
+- Feautre(Importance)
+- Model Response
+- Model Rationale Process
+- Dataset
+
+### relation between the interpretation algorithm and the model
+- Closed-form
+- Composition
+- Dependence
+- Proxy
