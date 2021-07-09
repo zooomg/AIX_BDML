@@ -101,6 +101,21 @@
 
 #### Proxy
 - direct extraction
+  - decision tree
+    - Extracting decision trees from trained neural networks (2019, Pattern Recognition, vol 32) [https://www.sciencedirect.com/science/article/pii/S0031320398001812]
+    - Global Model Interpretation via Recursive Partitioning (2018, IEEE HPCC/SmartCity/DSS) [https://arxiv.org/abs/1802.04253]
+  - rule extraction
+    - decompositional method
+      - Understanding Neural Networks via Rule Extraction (2017, IJCAI) [https://www.semanticscholar.org/paper/Understanding-Neural-Networks-via-Rule-Extraction-Setiono-Liu/2ba745184e671c5f32fab44429716cf136121d59]
+    - pedagogical method
+      - Neural network explanation using inversion (2007, Neural Networks, vol 20) [https://www.sciencedirect.com/science/article/pii/S0893608006001730]
+      - Extracting rules from artificial neural networks with distributed representations (1995, NIPS) [https://dl.acm.org/doi/10.5555/2998687.2998750]
+      - VIA(Validity Interval Analysis) (2000, IEEE Transaction on neural networks) [https://pubmed.ncbi.nlm.nih.gov/18249807/]
+    - fuzzy logic system
+      - ANFIS (1993, IEEE Transactions on Systems, Man, and Cybernetics) [https://ieeexplore.ieee.org/document/256541]
+      - RBF (1994, Proc.Fuzzy) [http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.45.4907]
+      - Fuzzy Logic Interpretation of Quadratic Networks (2020, Neurocomputing, vol. 374) [https://arxiv.org/abs/1807.03215]
+      - A New Type of Neurons for Machine Learning (2018, International journal for numerical methods in biomedical engineering, vol.374) [https://arxiv.org/abs/1704.08362]
 - knowledge-distillation
   - decision tree
     - Extracting tree-structured representations of trained networks (1995, NIPS) [https://dl.acm.org/doi/10.5555/2998828.2998832]
