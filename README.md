@@ -105,9 +105,9 @@
 - direct extraction
 - knowledge-distillation
 - provide a local explainer
-  - LIME
-  - Anchor
-  - LORE
+  - LIME (2016, SIGKDD) [https://arxiv.org/abs/1602.04938]
+  - Anchor (2018, AAAI) [https://www.semanticscholar.org/paper/Anchors%3A-High-Precision-Model-Agnostic-Explanations-Ribeiro-Singh/1d8f4f76ac6534627ef8a1c24b9937d8ab2a5c5f]
+  - LORE (2018, ) [https://arxiv.org/abs/1805.10820]
 
 #### Advanced Mathematical/Physical Analysis
 
