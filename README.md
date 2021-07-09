@@ -1,7 +1,5 @@
 # AIX_BDML
 
-# Algorithms
-
 ## Methods for interpreting and understanding deep neural networks, 2018
 
 ### Interpretation
