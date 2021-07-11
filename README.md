@@ -127,11 +127,14 @@
   - Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (2013, ) [https://arxiv.org/abs/1312.6034]
   - SmoothGrad: removing noise by adding noise (2017, ) [https://arxiv.org/abs/1706.03825]
   - IntegratedGrad, Axiomatic Attribution for Deep Networks (2017, ICML) [https://arxiv.org/abs/1703.01365]
-- LRP
+- LRP, Layer-Wise Relevance Propagation
   - On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation (2015, PloS one, vol.10) [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140]
   - Explaining Recurrent Neural Network Predictions in Sentiment Analysis (2017, ) [https://arxiv.org/abs/1706.07206]
   - Explaining NonLinear Classification Decisions with Deep Taylor Decomposition (2017, Pattern Recognition, vol.65) [https://arxiv.org/abs/1512.02479]
 - CAM, class activation map
+  - CAM, Learning Deep Features for Discriminative Localization (2016, CVPR) [https://arxiv.org/abs/1512.04150]
+  - Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization (2017, ICCV) [https://arxiv.org/abs/1610.02391]
+  - Is object localization for free? - Weakly-supervised learning with convolutional neural networks (2015, CVPR) [https://ieeexplore.ieee.org/document/7298668]
 
 #### Proxy
 - direct extraction
