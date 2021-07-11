@@ -79,7 +79,10 @@
 ### Post-Hoc
 #### Feature Analysis
 - inverting method
-  - deconvolution
+  - Inverting Visual Representations with Convolutional Networks (2016, CVPR) [https://arxiv.org/abs/1506.02753]
+  - Understanding Deep Image Representations by Inverting Them (2015, CVPR) [https://arxiv.org/abs/1412.0035]
+  - Striving for Simplicity: The All Convolutional Net (2014, ) [https://arxiv.org/abs/1412.6806]
+  - Deconvolution, Visualizing and Understanding Convolutional Networks (2014, ECCV) [https://arxiv.org/abs/1311.2901]
 - activation maximization
   - network dissection
 
