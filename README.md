@@ -97,8 +97,18 @@
 
 #### Model Inspection
 - influence function
+  - A comparison of some robust estimators of the variogram for use in soil survey (2000, European journal of soil science, vol.51) [https://onlinelibrary.wiley.com/doi/abs/10.1046/j.1365-2389.2000.00280.x]
+  - Understanding Black-box Predictions via Influence Functions (2017, ICML) [https://arxiv.org/abs/1703.04730]
+- ?
+  - Towards Transparent Systems: Semantic Characterization of Failure Modes (2014, ECCV) [https://link.springer.com/chapter/10.1007/978-3-319-10599-4_24]
+  - Identifying Unknown Unknowns in the Open World: Representations and Policies for Guided Exploration (2017, AAAI) [https://arxiv.org/abs/1610.09064]
+  - Examining CNN Representations with respect to Dataset Bias (2018, AAAI) [https://arxiv.org/abs/1710.10577]
+- data routes
+  - Interpret Neural Networks by Identifying Critical Data Routing Paths (2018, CVPR) [https://ieeexplore.ieee.org/document/8579026]
 - concept-based
-  - CAV
+  - Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) (2017, ) [https://arxiv.org/abs/1711.11279]
+- graph 
+  - Graph Structure of Neural Networks (2020, ICML) [https://arxiv.org/abs/2007.06559]
 
 #### Saliency
 - leave-one-out
