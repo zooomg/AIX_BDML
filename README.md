@@ -112,9 +112,17 @@
 
 #### Saliency
 - leave-one-out
-  - omission value
-    - 1-cosine distance
-  - shapley value
+  - Auditing Black-box Models for Indirect Influence (2016, ICDM) [https://arxiv.org/abs/1602.07043]
+  - Representation of linguistic form and function in recurrent neural networks (2017, ) [https://arxiv.org/abs/1602.08952]
+  - Understanding Neural Networks through Representation Erasure (2016, ) [https://arxiv.org/abs/1612.08220]
+  - Explaining Classifications For Individual Instances (2008, IEEE Transactions on Knowledge and Data Engineering) [https://ieeexplore.ieee.org/document/4407709]
+  - Visualizing Deep Neural Network Decisions: Prediction Difference Analysis (2017, ) [https://arxiv.org/abs/1702.04595]
+- shapley value
+  - Explaining Deep Neural Networks with a Polynomial Time Algorithm for Shapley Values Approximation (2019, ICML) [https://arxiv.org/abs/1903.10992]
+  - Visualizing the Feature Importance for Black Box Models (2018, Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2018, Dublin, Ireland) [https://arxiv.org/abs/1804.06620]
+  - Algorithmic Transparency via Quantitative Input Influence: Theory and Experiments with Learning Systems (2016, IEEE Symposium on Security and Privacy (SP)) [https://ieeexplore.ieee.org/document/7546525]
+  - Analysis of Regression in Game Theory Approach (2001, Applied Stochastic Models in Business and Industry, vol.17) [https://www.researchgate.net/publication/229728883_Analysis_of_Regression_in_Game_Theory_Approach]
+  - A Unified Approach to Interpreting Model Predictions (NIPS, 2017) [https://arxiv.org/abs/1705.07874]
 - resort to gradient
   - Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (2013, ) [https://arxiv.org/abs/1312.6034]
   - SmoothGrad: removing noise by adding noise (2017, ) [https://arxiv.org/abs/1706.03825]
