@@ -83,8 +83,17 @@
   - Understanding Deep Image Representations by Inverting Them (2015, CVPR) [https://arxiv.org/abs/1412.0035]
   - Striving for Simplicity: The All Convolutional Net (2014, ) [https://arxiv.org/abs/1412.6806]
   - Deconvolution, Visualizing and Understanding Convolutional Networks (2014, ECCV) [https://arxiv.org/abs/1311.2901]
-- activation maximization
-  - network dissection
+- activation maximization(deep dream)
+  - Visualizing Higher-Layer Features of a Deep Network (2009, University of Montreal, vol.1341) [https://www.semanticscholar.org/paper/Visualizing-Higher-Layer-Features-of-a-Deep-Network-Erhan-Bengio/65d994fb778a8d9e0f632659fb33a082949a50d3]
+  - Synthesizing the preferred inputs for neurons in neural networks via deep generator networks (2016, NIPS) [https://arxiv.org/abs/1605.09304]
+  - Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space (2017, CVPR) [https://arxiv.org/abs/1612.00005]
+  - Intriguing properties of neural networks (2013, ) [https://arxiv.org/abs/1312.6199]
+- extract from each neurons
+  - Network Dissection: Quantifying Interpretability of Deep Visual Representations (2016, CVPR) [https://arxiv.org/abs/1704.05796]
+  - Visualizing and Understanding Recurrent Networks (2015, ) [https://arxiv.org/abs/1506.02078]
+  - Convergent Learning: Do different neural networks learn the same representations? (2016, ICLR) [https://arxiv.org/abs/1511.07543]
+  - Understanding Neural Networks Through Deep Visualization (2015, ) [https://arxiv.org/abs/1506.06579]
+  - Object Detectors Emerge in Deep Scene CNNs (2014, ) [https://arxiv.org/abs/1412.6856]
 
 #### Model Inspection
 - influence function
@@ -100,7 +109,8 @@
   - Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps (2013, ) [https://arxiv.org/abs/1312.6034]
   - SmoothGrad: removing noise by adding noise (2017, ) [https://arxiv.org/abs/1706.03825]
   - IntegratedGrad, Axiomatic Attribution for Deep Networks (2017, ICML) [https://arxiv.org/abs/1703.01365]
-- LRP, On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation (2015, PloS one, vol.10) [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140]
+- LRP
+  - On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation (2015, PloS one, vol.10) [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130140]
   - Explaining Recurrent Neural Network Predictions in Sentiment Analysis (2017, ) [https://arxiv.org/abs/1706.07206]
   - Explaining NonLinear Classification Decisions with Deep Taylor Decomposition (2017, Pattern Recognition, vol.65) [https://arxiv.org/abs/1512.02479]
 - CAM, class activation map
